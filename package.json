@@ -1,0 +1,25 @@
+{
+  "name": "patternlab-node-3.0-demo-vanilla",
+  "version": "1.0.0",
+  "description": "Minimal example of what you need for Pattern Lab 3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmuenzenmeyer/patternlab-node-3.0-demo-vanilla.git"
+  },
+  "author": "Brian Muenzenmeyer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmuenzenmeyer/patternlab-node-3.0-demo-vanilla/issues"
+  },
+  "homepage": "https://github.com/bmuenzenmeyer/patternlab-node-3.0-demo-vanilla#readme",
+  "dependencies": {
+    "@pattern-lab/patternengine-node-mustache": "^2.0.0-alpha.1",
+    "@pattern-lab/patternlab-node": "^3.0.0-alpha.3",
+    "@pattern-lab/styleguidekit-assets-default": "^4.0.0-alpha.1",
+    "@pattern-lab/styleguidekit-mustache-default": "^4.0.0-alpha.1"
+  }
+}
