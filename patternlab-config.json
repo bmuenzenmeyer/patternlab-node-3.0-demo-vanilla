@@ -39,7 +39,7 @@
     "patternExtension": "mustache",
     "ignored-extensions" : ["scss", "DS_Store", "less"],
     "ignored-directories" : ["scss"],
-    "debug": false,
+    "logLevel": "info",
     "ishControlsHide": {
       "s": false,
       "m": false,
@@ -74,9 +74,10 @@
     },
     "cleanOutputHtml": true,
     "serverOptions": {
+      "wait": 3000
     },
     "theme": {
-      "layout": "vertical"
+      "color": "light"
     }
   }
   

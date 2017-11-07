@@ -18,8 +18,9 @@
   "homepage": "https://github.com/bmuenzenmeyer/patternlab-node-3.0-demo-vanilla#readme",
   "dependencies": {
     "@pattern-lab/patternengine-node-mustache": "^2.0.0-alpha.1",
-    "@pattern-lab/patternlab-node": "^3.0.0-alpha.3",
-    "@pattern-lab/styleguidekit-assets-default": "^4.0.0-alpha.1",
-    "@pattern-lab/styleguidekit-mustache-default": "^4.0.0-alpha.1"
+    "@pattern-lab/patternlab-node": "^3.0.0-alpha.4",
+    "@pattern-lab/styleguidekit-assets-default": "^4.0.0-alpha.2",
+    "@pattern-lab/styleguidekit-mustache-default": "^4.0.0-alpha.1",
+    "starterkit-mustache-demo": "^4.0.2"
   }
 }
